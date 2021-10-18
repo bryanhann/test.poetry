@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "foo"
-version = "0.2.0"
+version = "0.2.1"
 description = ""
 authors = ["Bryan Hann <nobody@nowhere>"]
 
@@ -8,5 +8,3 @@ authors = ["Bryan Hann <nobody@nowhere>"]
 python = "^3.7"
 
 [tool.poetry.dev-dependencies]
-
-[build-system]
